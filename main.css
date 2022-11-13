@@ -1,0 +1,203 @@
+/*arriere plan des pages d'acceuils*/
+.deux {
+    background-image: url(img/fond.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*texte des pages d'acceuils */
+.text {
+    position: absolute;
+    top: 11%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/*bouton page 1*/
+.bouton {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    border-radius: 50%;
+}
+
+/*bouton 1 des pages d'acceuils*/
+.bouton1 {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 55%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1px;
+    font-family: 'Arial', sans-serif;
+    border-radius: 50%;
+}
+
+/*bouton 2 des pages d'acceuils*/
+.bouton2 {
+    width: 20%;
+    height: 40%;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1px;
+    font-family: 'Arial', sans-serif;
+    border-radius: 50%;
+}
+
+/*texte premier choix des pages d'acceuils*/
+.choix1 {
+    position: absolute;
+    top: 29%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/*texte deuxième choix des pages d'acceuils*/
+.choix2 {
+    position: absolute;
+    top: 29%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+/*arriere plan page tigre*/
+.backtigre {
+    background-image: url(img/fondtigre.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*bouton pour passer d'une page d'un animal a une page d'acceuil*/
+.avance {
+    width: 10%;
+    height: 20%;
+    position: absolute;
+    top: 10%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 15px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    border-radius: 50%;
+}
+
+/*arrière plan page girafe*/
+.backgirafe {
+    background-image: url(img/fondgirafe.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 80%;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page panda*/
+.backpanda {
+    background-image: url(img/fondpanda.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 80%;
+    height: 80%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page panda-roux*/
+.backpanda-roux {
+    background-image: url(img/fondpanda-roux.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page rhino*/
+.backrhino {
+    background-image: url(img/fondrhino.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page hippo*/
+.backhippo {
+    background-image: url(img/fondhippo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page zebre*/
+.backzebre {
+    background-image: url(img/fondzebre.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/*arrière plan page lion*/
+.backlion {
+    background-image: url(img/fondlion.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
